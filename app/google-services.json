@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823289580357",
+    "project_id": "cloud-pdf-77db6",
+    "storage_bucket": "cloud-pdf-77db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823289580357:android:34874e8b8092888f208c2c",
+        "android_client_info": {
+          "package_name": "com.example.pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823289580357-b6ksisjt5q4lgv2gdetmdvnq6jjpq66m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNa7rzb_gQFg4XGgUZdQ5C5kcCww9xQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823289580357-b6ksisjt5q4lgv2gdetmdvnq6jjpq66m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
